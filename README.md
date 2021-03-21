@@ -2,4 +2,4 @@
 
 #Signals and Slots QProperty Discussed
 
-#SourceCode added 
+#and SourceCode added 
